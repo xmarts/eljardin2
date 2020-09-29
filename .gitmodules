@@ -1,0 +1,4 @@
+[submodule "10n-dominicana"]
+	path = 10n-dominicana
+	url = git@github.com:odoo-dominicana/l10n-dominicana.git
+	branch = 13.0-xmarts-ro
