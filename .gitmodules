@@ -1,0 +1,3 @@
+[submodule "l10n-dominicana"]
+	path = l10n-dominicana
+	url = git@github.com:odoo-dominicana/l10n-dominicana.git
